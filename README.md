@@ -1,2 +1,3 @@
 # calculator
-calculator using python
+calculator using python. 
+this is my first python mini project
