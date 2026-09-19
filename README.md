@@ -1,2 +1,2 @@
 # python basics
-this is my first python mini project
+this is my first python mini projects
